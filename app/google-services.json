@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863930756616",
+    "project_id": "e-library-a4c06",
+    "storage_bucket": "e-library-a4c06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863930756616:android:68312712b0953ec0426bbd",
+        "android_client_info": {
+          "package_name": "com.example.e_library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6BCSG6hXy1syYc8jVswDKCWN4rLGtVXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
